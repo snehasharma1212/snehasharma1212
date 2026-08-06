@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**snehasharma1212/snehasharma1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sneha 
 
-Here are some ideas to get you started:
+### 🎓 B.Tech Computer Science Engineering Student
+🌟 **Current CGPA: 9.71/10**
+📍 Bhubaneswar, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 I'm a Computer Science Engineering student with a strong interest in learning software development and problem-solving.
+
+I'm currently building my programming fundamentals while exploring backend development and modern web technologies. 
+
+I enjoy learning new technologies step by step.
+
+---
+
+## 🚀 Current Focus
+
+- 💻 Strengthening Java programming fundamentals
+- 🧩 Practicing Data Structures & Algorithms
+- 🌐 Learning Web Development fundamentals
+- 🔧 Improving Git & GitHub workflow
+- 🚀 Building beginner-friendly real-world projects
+
+---
+
+## 🛠 Tech Stack
+
+- ☕ Java
+- 🐍 Python (Basics)
+- 🧩 Data Structures & Algorithms
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🌿 Git
+- 🐙 GitHub
+- 🟢 Node.js 
+
+---
+
+## 🎯 Goals 
+
+- ✅ Build multiple real-world beginner projects
+- ✅ Strengthen DSA problem-solving skills
+- ✅ Learn backend development fundamentals
+- ✅ Start contributing to Open Source projects in the future
+- ✅ Maintain consistency in learning and coding
+
+---
+
+### 🌱 Always learning, always improving.
+
