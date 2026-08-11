@@ -1,19 +1,166 @@
 
-<h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">👩‍💻 I'm a Computer Science Engineering student with a strong interest in learning software development and problem-solving.</h3>
+<h1 align="center">Hi 👋, I'm Sneha Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasharma1212&label=Profile%20views&color=0e75b6&style=flat" alt="snehasharma1212" /> </p>
+<h3 align="center">
+  Computer Science Engineering Student | Software Development & Problem Solving 🚀
+</h3>
 
-- 🌱 I’m currently learning **Strengthening Java programming fundamentals 🧩 Practicing Data Structures & Algorithms 🌐 Learning Web Development fundamentals 🔧 Improving Git & GitHub workflow 🚀 Building beginner-friendly real-world projects**
-
-- 📫 How to reach me **sharma.12sneh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehasharma1212&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehasharma1212&show_icons=true&locale=en" alt="snehasharma1212" /></p>
+## 🎓 About Me
+
+* 🎓 **B.Tech in Computer Science & Engineering**
+* 📊 **Current CGPA: 9.71 / 10**
+* 💻 Currently strengthening my **DSA & problem-solving skills**
+* 🌐 Exploring **Web Development & Backend Development**
+* 🚀 Building technical projects to turn what I learn into practical skills
+* 🏆 Exploring **hackathons and real-world problem solving**
+* 🌱 Always learning, building, and improving
+
+---
+
+## 🎯 My Goals
+
+* 🧠 Build strong **DSA & problem-solving** fundamentals
+* 💻 Become confident in **backend/full-stack development**
+* 🚀 Build meaningful **real-world projects**
+* 🏆 Participate in and contribute to **hackathons**
+* 🤝 Contribute to **open-source projects**
+* 💼 Prepare for **software development internships**
+* 📚 Learn through **building, experimenting, and solving problems**
+
+---
+
+## 💡 Interests
+
+* 💻 Software Development
+* ⚙️ Backend Engineering
+* 🌐 Web Development
+* 🧩 Data Structures & Algorithms
+* 🤖 AI & Emerging Technologies
+* 🏆 Hackathons
+* 🔧 Building Useful Projects
+* 🌍 Open Source
+
+---
+
+## 🌱 Currently Learning
+
+**Programming**
+
+* ☕ Java
+* 🐍 Python — Basics
+* 🟨 JavaScript
+
+**Web Development**
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+
+**Backend & Databases**
+
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+
+**Tools**
+
+* 🔧 Git
+* 🐙 GitHub
+* 💙 VS Code
+
+> 💭 **Learning philosophy:** Learn → Build → Debug → Improve → Repeat.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+I'm working on beginner-friendly projects to strengthen my development skills and understand how real-world applications are built.
+
+### 📌 Current Focus
+
+* 🧩 DSA & problem solving
+* 🌐 Web development fundamentals
+* ⚙️ Backend development
+* 🗄️ Databases & APIs
+* 🏆 Hackathon projects
+* 🔧 Git & GitHub workflow
+
+---
+
+## 📂 Projects
+
+> 🚧 **More projects coming soon!**
+
+As I build more projects, this section will showcase my best work, including the problem solved, technologies used, and my contribution.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehasharma1212&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasharma1212&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snehasharma1212&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  📧 <b>Email:</b> sharma.12sneh@gmail.com
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
