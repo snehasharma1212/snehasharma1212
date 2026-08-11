@@ -13,25 +13,20 @@
 
 ## 🎓 About Me
 
-* 🎓 **B.Tech in Computer Science & Engineering**
-* 📊 **Current CGPA: 9.71 / 10**
-* 💻 Currently strengthening my **DSA & problem-solving skills**
-* 🌐 Exploring **Web Development & Backend Development**
-* 🚀 Building technical projects to turn what I learn into practical skills
-* 🏆 Exploring **hackathons and real-world problem solving**
-* 🌱 Always learning, building, and improving
 
----
+🎓 **B.Tech in Computer Science & Engineering**
 
-## 🎯 My Goals
+📊 **Current CGPA: 9.71 / 10**
 
-* 🧠 Build strong **DSA & problem-solving** fundamentals
-* 💻 Become confident in **backend/full-stack development**
-* 🚀 Build meaningful **real-world projects**
-* 🏆 Participate in and contribute to **hackathons**
-* 🤝 Contribute to **open-source projects**
-* 💼 Prepare for **software development internships**
-* 📚 Learn through **building, experimenting, and solving problems**
+💻 Currently strengthening my **DSA & problem-solving skills**
+
+🌐 Exploring **Web Development & Backend Development**
+
+🚀 Building **technical projects** to turn what I learn into practical skills
+
+🏆 Exploring **hackathons & real-world problem solving**
+
+
 
 ---
 
@@ -45,36 +40,6 @@
 * 🏆 Hackathons
 * 🔧 Building Useful Projects
 * 🌍 Open Source
-
----
-
-## 🌱 Currently Learning
-
-**Programming**
-
-* ☕ Java
-* 🐍 Python — Basics
-* 🟨 JavaScript
-
-**Web Development**
-
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-
-**Backend & Databases**
-
-* 🟢 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
-
-**Tools**
-
-* 🔧 Git
-* 🐙 GitHub
-* 💙 VS Code
-
-> 💭 **Learning philosophy:** Learn → Build → Debug → Improve → Repeat.
 
 ---
 
@@ -114,21 +79,6 @@
 
 ---
 
-## 🚀 What I'm Building
-
-I'm working on beginner-friendly projects to strengthen my development skills and understand how real-world applications are built.
-
-### 📌 Current Focus
-
-* 🧩 DSA & problem solving
-* 🌐 Web development fundamentals
-* ⚙️ Backend development
-* 🗄️ Databases & APIs
-* 🏆 Hackathon projects
-* 🔧 Git & GitHub workflow
-
----
-
 ## 📂 Projects
 
 > 🚧 **More projects coming soon!**
@@ -139,28 +89,11 @@ As I build more projects, this section will showcase my best work, including the
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehasharma1212&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasharma1212&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=snehasharma1212&theme=tokyonight&hide_border=true" />
-</p>
 
----
 
-## 📫 Connect With Me
-
-<p align="left">
-  📧 <b>Email:</b> sharma.12sneh@gmail.com
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
 
